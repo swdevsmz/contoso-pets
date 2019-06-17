@@ -1,0 +1,14 @@
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\bin\Debug\netcoreapp2.2\ContosoPets.Api.deps.json
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\bin\Debug\netcoreapp2.2\ContosoPets.Api.runtimeconfig.json
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\bin\Debug\netcoreapp2.2\ContosoPets.Api.runtimeconfig.dev.json
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\bin\Debug\netcoreapp2.2\ContosoPets.Api.dll
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\bin\Debug\netcoreapp2.2\ContosoPets.Api.pdb
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.csprojAssemblyReference.cache
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.csproj.CoreCompileInputs.cache
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.RazorAssemblyInfo.cache
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.RazorAssemblyInfo.cs
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.AssemblyInfoInputs.cache
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.AssemblyInfo.cs
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.RazorTargetAssemblyInfo.cache
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.dll
+C:\00_data\90_repos\contoso-pets\src\ContosoPets.Api\obj\Debug\netcoreapp2.2\ContosoPets.Api.pdb
